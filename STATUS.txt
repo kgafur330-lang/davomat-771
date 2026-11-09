@@ -1,0 +1,5 @@
+MVP STATUS
+Implemented: Telegram WebApp initData HMAC validation, role mapping, student CRUD, CSV bulk import,
+lesson creation/list, manual attendance marking, basic counters.
+Pending: face recognition engine, portable camera agent API, offline queue/sync, attendance percentage/history
+for student, audit logs, passwordless admin invitation workflow, production security review.
